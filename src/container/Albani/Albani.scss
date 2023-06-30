@@ -1,0 +1,34 @@
+.app__albani {
+    max-width: 1000px;
+    height: 80vh;
+    flex-direction: column;
+
+    padding: 6rem 1rem 6rem 4rem;
+    margin: 0 auto;
+
+    @media screen and (min-width: 2000px) {
+        padding-top: 8rem;
+    }
+
+    @media screen and (max-width: 900px) {
+        padding: 2rem 4rem;
+    }
+
+    @media screen and (max-width: 450px) {
+        padding: 4rem 2rem;
+    }
+	
+	border-top: 2px solid black;
+}
+
+.app__albani-section {
+
+}
+
+.app__albani-title {
+
+}
+
+.app__albani-excerpt {
+
+}
