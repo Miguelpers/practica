@@ -10,7 +10,7 @@ const Albani = () => {
 			    <h1>Albani</h1>
 			</div>
 			<div className="app__albani-excerpt">
-				<p className="p-text"></p>
+				<p className="p-text">Test</p>
 			</div>
 		</div>
     </div>
