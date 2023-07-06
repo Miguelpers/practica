@@ -11,7 +11,7 @@ const Miguel = () => {
 			</div>
 			<div className="app__miguel-excerpt">
 				<p className="p-text">1234565768</p>
-				<h2>Nelson Callate></h2>
+				<h2>Nelson></h2>
 			</div>
 		</div>
     </div>
