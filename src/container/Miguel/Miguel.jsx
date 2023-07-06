@@ -10,7 +10,7 @@ const Miguel = () => {
 			    <h1>Miguel</h1>
 			</div>
 			<div className="app__miguel-excerpt">
-				<p className="p-text">12345</p>
+				<p className="p-text">1234565768w</p>
 			</div>
 		</div>
     </div>
